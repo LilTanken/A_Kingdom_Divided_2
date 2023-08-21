@@ -1,0 +1,6 @@
+owner=MRT
+controller=ENG
+add_core=GDW
+trade_goods = grain
+life_rating = 32
+fort = 1

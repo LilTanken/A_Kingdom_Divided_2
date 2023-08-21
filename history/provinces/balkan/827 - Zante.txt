@@ -1,0 +1,13 @@
+owner=ANA
+controller=ANA
+add_core=ANA
+add_core=GRE
+trade_goods = fruit
+life_rating = 34
+terrain = small_island
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

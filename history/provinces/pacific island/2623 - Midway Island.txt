@@ -1,0 +1,5 @@
+owner=POR
+controller=POR
+trade_goods = sulphur
+life_rating = 10
+naval_base = 1

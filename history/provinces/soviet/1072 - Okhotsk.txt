@@ -1,0 +1,11 @@
+owner=RUS
+controller=RUS
+trade_goods = grain
+life_rating = 30
+colonial=2
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

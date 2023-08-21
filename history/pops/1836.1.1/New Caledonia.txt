@@ -1,0 +1,65 @@
+1097 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1023
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 4312
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = catholic
+		size= 239
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = catholic
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = catholic
+		size= 272
+	}
+
+}

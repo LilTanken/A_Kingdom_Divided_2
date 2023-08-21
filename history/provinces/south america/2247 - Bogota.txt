@@ -1,0 +1,11 @@
+owner=CLM
+controller=CLM
+add_core=CLM
+trade_goods = cattle
+life_rating = 39
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

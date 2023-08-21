@@ -1,0 +1,2843 @@
+#Sphere of Influence
+
+ADU = {
+	value = -116
+	level = 2
+}
+AFG = {
+	value = 49
+	level = 2
+}
+ANA = {
+	value = -59
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+ARM = {
+	value = 27
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+ATM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = -11
+	level = 2
+}
+AVA = {
+	value = 33
+	level = 2
+}
+BAV = {
+	value = -10
+	level = 2
+}
+BEN = {
+	value = -26
+	level = 2
+}
+BLM = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+BNG = {
+	value = 22
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+BRU = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+BRZ = {
+	value = -26
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BUN = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+CAQ = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+CEB = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+CRB = {
+	value = 206
+	influence_value = 39
+	level = 2
+}
+CWU = {
+	value = 45
+	level = 2
+}
+DAH = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DJA = {
+	value = 46
+	level = 2
+}
+DLI = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+DMK = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+DOM = {
+	value = -22
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FEO = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -73
+	level = 2
+}
+GDW = {
+	value = -48
+	level = 2
+}
+GUG = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = -6
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = -12
+	level = 2
+}
+HSE = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+KBO = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 46
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+LOM = {
+	value = -11
+	level = 2
+}
+LUB = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+LUC = {
+	value = -10
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+LUX = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 27
+	level = 2
+}
+MGD = {
+	value = 49
+	level = 2
+}
+MIR = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+MLC = {
+	value = 4
+	level = 2
+}
+MLI = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOS = {
+	value = 49
+	level = 2
+}
+MRT = {
+	value = -80
+	level = 2
+}
+NAH = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+NEP = {
+	value = 16
+	level = 2
+}
+NET = {
+	value = 193
+	influence_value = 35
+	level = 4
+}
+NEW = {
+	value = 107
+	influence_value = 14
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+PAP = {
+	value = -13
+	level = 2
+}
+PAT = {
+	value = 95
+	influence_value = 11
+	level = 2
+}
+PER = {
+	value = -55
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+PHG = {
+	value = 135
+	influence_value = 21
+	level = 2
+}
+PIS = {
+	value = -9
+	level = 2
+}
+PNJ = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 92
+	influence_value = 10
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+SAR = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+SWE = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+SWI = {
+	value = -12
+	level = 2
+}
+SYR = {
+	value = 46
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+TTE = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+TUS = {
+	value = -7
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 266
+	influence_value = 4
+	level = 3
+}
+UTS = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+VEN = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+VNZ = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+WBG = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+WOL = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X00 = {
+	value = -13
+	level = 2
+}
+X01 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X02 = {
+	value = -12
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X05 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X08 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 49
+	level = 2
+}
+X13 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X14 = {
+	value = 25
+	level = 2
+}
+X15 = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = -15
+	level = 2
+}
+YAT = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+ZUL = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Sydney Cumberland"
+	date="1782.5.19"
+	type=land
+	personality="resolute"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Joseph Dampier"
+	date="1797.4.22"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Augustus Blake"
+	date="1797.7.25"
+	type=sea
+	personality="intuitive"
+	background="generals_aide"
+}
+
+leader = {
+	name="Joseph Buckingham"
+	date="1799.3.1"
+	type=sea
+	personality="chivalrous"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Maximilian Clarence"
+	date="1804.5.27"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="David Carleton"
+	date="1794.10.5"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="William Norfolk"
+	date="1801.3.1"
+	type=land
+	personality="inspiring"
+	background="aristocrat"
+}
+
+leader = {
+	name="Charles Buckingham"
+	date="1801.9.29"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Edward Benbow"
+	date="1776.12.25"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Archibald Smith"
+	date="1788.4.21"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Benjamin Clive"
+	date="1797.1.14"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Christian Drake"
+	date="1801.11.14"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Edgar Moore"
+	date="1801.11.13"
+	type=sea
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Christopher Essex"
+	date="1816.2.11"
+	type=sea
+	personality="inspiring"
+	background="aristocrat"
+}
+
+leader = {
+	name="Augustus Benbow"
+	date="1788.6.11"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Geoffrey Cromwell"
+	date="1791.4.1"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Henry Hood"
+	date="1793.2.12"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="George Byron"
+	date="1794.7.22"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Maximilian Amherst"
+	date="1802.1.26"
+	type=land
+	personality="coolminded"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="Royal Army"
+	location=1894
+	regiment = {
+		name="1st Sheffield Infantry"
+		type=infantry
+		home=283
+	}
+	regiment = {
+		name="1st Birmingham Infantry"
+		type=infantry
+		home=284
+	}
+	regiment = {
+		name="1st Plymouth Infantry"
+		type=infantry
+		home=299
+	}
+	regiment = {
+		name="1st Leicester Infantry"
+		type=infantry
+		home=289
+	}
+	regiment = {
+		name="1st Cork Artillery"
+		type=artillery
+		home=260
+	}
+	regiment = {
+		name="1st Aberdeen Artillery"
+		type=artillery
+		home=266
+	}
+	regiment = {
+		name="1st London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="2nd Kildare Artillery"
+		type=artillery
+		home=264
+	}
+}
+
+army = {
+	name="Army of Ireland"
+	location=1297
+	regiment = {
+		name="2nd Sheffield Infantry"
+		type=infantry
+		home=283
+	}
+	regiment = {
+		name="1st St Albans Infantry"
+		type=infantry
+		home=295
+	}
+}
+
+navy = {
+	name="White Squadron"
+	location=2737
+	ship = {
+		name="2nd Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Donegal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Sampson"
+		type=frigate
+	}
+	ship = {
+		name="Centaur"
+		type=frigate
+	}
+	ship = {
+		name="3rd Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Hull Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Armagh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Armagh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Armagh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Armagh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Hull Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bath Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lincoln Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Army of Scotland"
+	location=1911
+	regiment = {
+		name="1st Donegal Artillery"
+		type=artillery
+		home=257
+	}
+	regiment = {
+		name="1st Galway Artillery"
+		type=artillery
+		home=258
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1897
+	regiment = {
+		name="1st Llandrindod Infantry"
+		type=infantry
+		home=275
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1909
+	regiment = {
+		name="1st Kildare Artillery"
+		type=artillery
+		home=264
+	}
+	regiment = {
+		name="1st Salisbury Artillery"
+		type=artillery
+		home=297
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1897
+	regiment = {
+		name="1st Nottingham Infantry"
+		type=infantry
+		home=288
+	}
+	regiment = {
+		name="1st Londonderry Artillery"
+		type=artillery
+		home=255
+	}
+	regiment = {
+		name="1st Southampton Infantry"
+		type=infantry
+		home=303
+	}
+	regiment = {
+		name="1st Stirling Artillery"
+		type=artillery
+		home=270
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1804
+	regiment = {
+		name="1st Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="2nd Cuttack Infantry"
+		type=infantry
+		home=1261
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1250
+	regiment = {
+		name="1st Vizagapatnam Infantry"
+		type=infantry
+		home=1305
+	}
+	regiment = {
+		name="1st Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+	regiment = {
+		name="1st Darjeeling Artillery"
+		type=artillery
+		home=1252
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1297
+	regiment = {
+		name="1st Hull Cavalry"
+		type=cavalry
+		home=281
+	}
+	regiment = {
+		name="1st Sheffield Cavalry"
+		type=cavalry
+		home=283
+	}
+	regiment = {
+		name="1st Bath Cavalry"
+		type=cavalry
+		home=298
+	}
+	regiment = {
+		name="1st Brighton Cavalry"
+		type=cavalry
+		home=302
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2737
+	ship = {
+		name="Sidon"
+		type=frigate
+	}
+	ship = {
+		name="Leopard"
+		type=frigate
+	}
+	ship = {
+		name="Tiger"
+		type=frigate
+	}
+	ship = {
+		name="Magicienne"
+		type=frigate
+	}
+	ship = {
+		name="Valorous"
+		type=frigate
+	}
+	ship = {
+		name="Furious"
+		type=frigate
+	}
+	ship = {
+		name="Resolute"
+		type=frigate
+	}
+	ship = {
+		name="Amphion"
+		type=frigate
+	}
+	ship = {
+		name="Arrogant"
+		type=frigate
+	}
+	ship = {
+		name="Dauntless"
+		type=frigate
+	}
+	ship = {
+		name="Vigilant"
+		type=frigate
+	}
+	ship = {
+		name="Termagant"
+		type=frigate
+	}
+	ship = {
+		name="Euphrates"
+		type=frigate
+	}
+	ship = {
+		name="Tribune"
+		type=frigate
+	}
+	ship = {
+		name="Curacoa"
+		type=frigate
+	}
+	ship = {
+		name="Imperieuse"
+		type=frigate
+	}
+	ship = {
+		name="Euryalus"
+		type=frigate
+	}
+	ship = {
+		name="Aurora"
+		type=frigate
+	}
+	ship = {
+		name="Forte"
+		type=frigate
+	}
+	ship = {
+		name="Chesapeake"
+		type=frigate
+	}
+	ship = {
+		name="Liffey"
+		type=frigate
+	}
+	ship = {
+		name="2nd Holyhead Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Santo Domingo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Melo Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2913
+	ship = {
+		name="1st Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dover Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Plymouth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st British Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd British Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dover Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Plymouth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Moulmein Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brighton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th British Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th British Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="12th British Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="13th British Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Holyhead Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Plymouth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Maldives Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Maldives Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Canterbury Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2744
+	ship = {
+		name="1st Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Banda Aceh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Khalkis Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Jaffna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Banda Aceh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Jaffna Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="5th Army"
+	location=300
+	regiment = {
+		name="1st St Albans Cavalry"
+		type=cavalry
+		home=295
+	}
+	regiment = {
+		name="1st Oxford Cavalry"
+		type=cavalry
+		home=294
+	}
+	regiment = {
+		name="2nd St Albans Cavalry"
+		type=cavalry
+		home=295
+	}
+	regiment = {
+		name="2nd Oxford Cavalry"
+		type=cavalry
+		home=294
+	}
+	regiment = {
+		name="3rd St Albans Cavalry"
+		type=cavalry
+		home=295
+	}
+	regiment = {
+		name="3rd Oxford Cavalry"
+		type=cavalry
+		home=294
+	}
+	regiment = {
+		name="4th St Albans Cavalry"
+		type=cavalry
+		home=295
+	}
+	regiment = {
+		name="5th St Albans Cavalry"
+		type=cavalry
+		home=295
+	}
+	regiment = {
+		name="1st Chelmsford Artillery"
+		type=artillery
+		home=293
+	}
+	regiment = {
+		name="2nd Chelmsford Artillery"
+		type=artillery
+		home=293
+	}
+	regiment = {
+		name="6th St Albans Cavalry"
+		type=cavalry
+		home=295
+	}
+	regiment = {
+		name="7th St Albans Cavalry"
+		type=cavalry
+		home=295
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2737
+	ship = {
+		name="1st Heligoland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bissau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Jambi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Faro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd British Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Banda Aceh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stade Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Jambi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Banda Aceh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ipoh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Heligoland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kiel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Faro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Faro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Iloilo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ravenna Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1309
+	regiment = {
+		name="1st Kandy Infantry"
+		type=infantry
+		home=1323
+	}
+	regiment = {
+		name="1st Jessore Infantry"
+		type=infantry
+		home=1256
+	}
+	regiment = {
+		name="1st Colombo Infantry"
+		type=infantry
+		home=1321
+	}
+	regiment = {
+		name="2nd Jessore Infantry"
+		type=infantry
+		home=1256
+	}
+	regiment = {
+		name="1st Jaffna Infantry"
+		type=infantry
+		home=1322
+	}
+	regiment = {
+		name="1st Keunjahr Cavalry"
+		type=cavalry
+		home=1262
+	}
+	regiment = {
+		name="1st Gulbarga Cavalry"
+		type=cavalry
+		home=1286
+	}
+	regiment = {
+		name="1st Hyderabad Cavalry"
+		type=cavalry
+		home=1283
+	}
+	regiment = {
+		name="1st Darjeeling Cavalry"
+		type=cavalry
+		home=1252
+	}
+	regiment = {
+		name="2nd Hyderabad Cavalry"
+		type=cavalry
+		home=1283
+	}
+	regiment = {
+		name="1st Jaffna Artillery"
+		type=artillery
+		home=1322
+	}
+	regiment = {
+		name="2nd Bardwan Cavalry"
+		type=cavalry
+		home=1253
+	}
+	regiment = {
+		name="1st Trincomalee Cavalry"
+		type=cavalry
+		home=1324
+	}
+	regiment = {
+		name="2nd Calcutta Artillery"
+		type=artillery
+		home=1251
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1286
+	regiment = {
+		name="2nd Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="1st Sambalpur Infantry"
+		type=infantry
+		home=1263
+	}
+	regiment = {
+		name="1st Cuttack Infantry"
+		type=infantry
+		home=1261
+	}
+	regiment = {
+		name="3rd Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="3rd Jessore Infantry"
+		type=infantry
+		home=1256
+	}
+	regiment = {
+		name="2nd Sambalpur Infantry"
+		type=infantry
+		home=1263
+	}
+	regiment = {
+		name="4th Jessore Infantry"
+		type=infantry
+		home=1256
+	}
+	regiment = {
+		name="4th Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="2nd Darjeeling Cavalry"
+		type=cavalry
+		home=1252
+	}
+	regiment = {
+		name="1st Vizagapatnam Artillery"
+		type=artillery
+		home=1305
+	}
+	regiment = {
+		name="1st Jessore Artillery"
+		type=artillery
+		home=1256
+	}
+	regiment = {
+		name="1st Vizagapatnam Cavalry"
+		type=cavalry
+		home=1305
+	}
+	regiment = {
+		name="1st Masulipatnam Artillery"
+		type=artillery
+		home=1306
+	}
+}
+
+navy = {
+	name="North Sea Squadron"
+	location=1322
+	ship = {
+		name="1st Vizagapatnam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Cuttack Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Army of Scotland"
+	location=1297
+	regiment = {
+		name="1st Belgaum Cavalry"
+		type=cavalry
+		home=1302
+	}
+	regiment = {
+		name="1st Rewa Cavalry"
+		type=cavalry
+		home=1274
+	}
+	regiment = {
+		name="3rd Hyderabad Cavalry"
+		type=cavalry
+		home=1283
+	}
+	regiment = {
+		name="2nd Belgaum Cavalry"
+		type=cavalry
+		home=1302
+	}
+	regiment = {
+		name="1st Madurai Cavalry"
+		type=cavalry
+		home=1310
+	}
+	regiment = {
+		name="1st Tanjore Artillery"
+		type=artillery
+		home=1309
+	}
+	regiment = {
+		name="2nd Tanjore Artillery"
+		type=artillery
+		home=1309
+	}
+	regiment = {
+		name="2nd Rewa Cavalry"
+		type=cavalry
+		home=1274
+	}
+	regiment = {
+		name="3rd Belgaum Cavalry"
+		type=cavalry
+		home=1302
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1297
+	regiment = {
+		name="2nd Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+	regiment = {
+		name="1st Gulbarga Artillery"
+		type=artillery
+		home=1286
+	}
+	regiment = {
+		name="2nd Gulbarga Artillery"
+		type=artillery
+		home=1286
+	}
+}
+
+army = {
+	name="29th Army"
+	location=1253
+	regiment = {
+		name="3rd Tanjore Artillery"
+		type=artillery
+		home=1309
+	}
+	regiment = {
+		name="1st Rewa Artillery"
+		type=artillery
+		home=1274
+	}
+	regiment = {
+		name="1st Mangalore Artillery"
+		type=artillery
+		home=1316
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1321
+	regiment = {
+		name="1st Masulipatnam Infantry"
+		type=infantry
+		home=1306
+	}
+	regiment = {
+		name="5th Calcutta Infantry"
+		type=infantry
+		home=1251
+	}
+}
+
+army = {
+	name="16th Army"
+	location=1734
+	regiment = {
+		name="2nd Masulipatnam Infantry"
+		type=infantry
+		home=1306
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=1734
+	regiment = {
+		name="3rd Masulipatnam Infantry"
+		type=infantry
+		home=1306
+	}
+	regiment = {
+		name="5th Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="1st Cochin Artillery"
+		type=artillery
+		home=1318
+	}
+	regiment = {
+		name="4th Calcutta Infantry"
+		type=infantry
+		home=1251
+	}
+	regiment = {
+		name="1st Trivandrum Artillery"
+		type=artillery
+		home=1319
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2973
+	ship = {
+		name="Belvidera"
+		type=frigate
+	}
+	ship = {
+		name="Pomone"
+		type=frigate
+	}
+	ship = {
+		name="2nd Jamaica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Jamaica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Jamaica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Turks & Caicos Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2228
+	regiment = {
+		name="1st Martinique Infantry"
+		type=infantry
+		home=2228
+	}
+	regiment = {
+		name="6th Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="1st Bardwan Cavalry"
+		type=cavalry
+		home=1253
+	}
+	regiment = {
+		name="3rd Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+	regiment = {
+		name="14th Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="1st Kharswari Cavalry"
+		type=cavalry
+		home=1249
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2965
+	ship = {
+		name="Raleigh"
+		type=frigate
+	}
+	ship = {
+		name="1st Saint Lucia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Saint Lucia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Saint Barths Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2977
+	ship = {
+		name="Briton"
+		type=frigate
+	}
+	ship = {
+		name="Barham"
+		type=frigate
+	}
+	ship = {
+		name="2nd Martinique Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Barbados Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Jamaica Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2222
+	ship = {
+		name="1st Barbados Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Turks & Caicos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Puerto Rico Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Turks & Caicos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Barbados Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2976
+	ship = {
+		name="1st Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Saint Lucia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Saint Lucia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Saint Lucia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Saint Kitts Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Saint Lucia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Puerto Rico Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2976
+	ship = {
+		name="Boadicea"
+		type=frigate
+	}
+	ship = {
+		name="1st Martinique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Grenada Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Martinique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Saint Lucia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Barbados Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Turks & Caicos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Jamaica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Grenada Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Saint Lucia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dominica Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Puerto Rico Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2597
+	regiment = {
+		name="7th Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="1st Saint Johns Artillery"
+		type=artillery
+		home=74
+	}
+	regiment = {
+		name="12th Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="2nd Kharswari Artillery"
+		type=artillery
+		home=1249
+	}
+}
+
+army = {
+	name="1st Army"
+	location=75
+	regiment = {
+		name="8th Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="1st Bytown Artillery"
+		type=artillery
+		home=57
+	}
+	regiment = {
+		name="1st Temiscaming Artillery"
+		type=artillery
+		home=63
+	}
+	regiment = {
+		name="3rd Calcutta Infantry"
+		type=infantry
+		home=1251
+	}
+	regiment = {
+		name="5th Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=65
+	regiment = {
+		name="9th Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="1st Calcutta Infantry"
+		type=infantry
+		home=1251
+	}
+	regiment = {
+		name="1st Port-Aux-Basques Artillery"
+		type=artillery
+		home=75
+	}
+	regiment = {
+		name="2nd Saint Johns Artillery"
+		type=artillery
+		home=74
+	}
+	regiment = {
+		name="3rd Saint Johns Artillery"
+		type=artillery
+		home=74
+	}
+	regiment = {
+		name="2nd Port-Aux-Basques Artillery"
+		type=artillery
+		home=75
+	}
+	regiment = {
+		name="15th Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="6th Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+}
+
+army = {
+	name="4th Army"
+	location=38
+	regiment = {
+		name="10th Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="1st Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="1st Montreal Artillery"
+		type=artillery
+		home=58
+	}
+	regiment = {
+		name="2nd Montreal Artillery"
+		type=artillery
+		home=58
+	}
+	regiment = {
+		name="1st Bombay Artillery"
+		type=artillery
+		home=1297
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2942
+	ship = {
+		name="Bucephalus"
+		type=frigate
+	}
+	ship = {
+		name="Dextrous"
+		type=frigate
+	}
+	ship = {
+		name="Endymion"
+		type=frigate
+	}
+	ship = {
+		name="Ister"
+		type=frigate
+	}
+	ship = {
+		name="Blonde"
+		type=frigate
+	}
+	ship = {
+		name="Astrea"
+		type=frigate
+	}
+	ship = {
+		name="1st Saint Johns Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sept-Îles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rimouski Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=51
+	regiment = {
+		name="1st Bytown Infantry"
+		type=infantry
+		home=57
+	}
+	regiment = {
+		name="2nd Calcutta Infantry"
+		type=infantry
+		home=1251
+	}
+	regiment = {
+		name="4th Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+	regiment = {
+		name="6th Calcutta Infantry"
+		type=infantry
+		home=1251
+	}
+	regiment = {
+		name="1st Kharswari Artillery"
+		type=artillery
+		home=1249
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2946
+	ship = {
+		name="Dartmouth"
+		type=frigate
+	}
+	ship = {
+		name="Inconstant"
+		type=frigate
+	}
+	ship = {
+		name="1st Churchill Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd St Pierre & Miquelon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd St Pierre & Miquelon Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=74
+	ship = {
+		name="1st Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Saint Johns Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Prince Edward Island Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Port-Aux-Basques Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Saint Johns Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Port-Aux-Basques Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st St Pierre & Miquelon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd St Pierre & Miquelon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Port-Aux-Basques Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd St Pierre & Miquelon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sept-Îles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Truro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Port-Aux-Basques Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Truro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="12th Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="13th Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="14th Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st St Pierre & Miquelon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd St Pierre & Miquelon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="15th Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Truro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Saint Johns Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Truro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Truro Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2865
+	ship = {
+		name="Shah"
+		type=frigate
+	}
+	ship = {
+		name="1st Tauranga Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ngamotu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Ngamotu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gladstone Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tauranga Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Ahuriri Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2571
+	regiment = {
+		name="1st Sale Infantry"
+		type=infantry
+		home=2479
+	}
+	regiment = {
+		name="1st Calcutta Cavalry"
+		type=cavalry
+		home=1251
+	}
+	regiment = {
+		name="13th Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="3rd Darjeeling Cavalry"
+		type=cavalry
+		home=1252
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2745
+	ship = {
+		name="2nd Melbourne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ahuriri Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ahuriri Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ahuriri Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Ahuriri Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2866
+	ship = {
+		name="2nd Ngamotu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ngamotu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Broome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kirikiriroa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Te Upoko-o-te-Ika Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2861
+	ship = {
+		name="1st Kirikiriroa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Port Essington Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Ngamotu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kirikiriroa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Te Upoko-o-te-Ika Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ngamotu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kirikiriroa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cooktown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Broome Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tauranga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Van Diemen's Land Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Te Upoko-o-te-Ika Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Van Diemen's Land Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tennant Creek Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gladstone Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ahuriri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ahuriri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Ahuriri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Ahuriri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kirikiriroa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Kirikiriroa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Kirikiriroa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Ahuriri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Kirikiriroa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Kirikiriroa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Ahuriri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Kirikiriroa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Ahuriri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kirikiriroa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tennant Creek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Ngamotu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cooktown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cooktown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Cooktown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tennant Creek Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2484
+	regiment = {
+		name="1st Cooktown Infantry"
+		type=infantry
+		home=2488
+	}
+	regiment = {
+		name="11th Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="1st Calcutta Artillery"
+		type=artillery
+		home=1251
+	}
+	regiment = {
+		name="1st Gladstone Artillery"
+		type=artillery
+		home=2484
+	}
+	regiment = {
+		name="3rd Calcutta Artillery"
+		type=artillery
+		home=1251
+	}
+}
+

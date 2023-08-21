@@ -1,0 +1,8 @@
+owner=BUN
+controller=BUN
+add_core=BUN
+add_core=HND
+add_core=X14
+trade_goods = dye
+life_rating = 32
+fort = 1

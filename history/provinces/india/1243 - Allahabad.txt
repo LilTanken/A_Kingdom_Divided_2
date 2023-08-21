@@ -1,0 +1,8 @@
+owner=X14
+controller=X14
+add_core=BUN
+add_core=HND
+add_core=X14
+trade_goods = tobacco
+life_rating = 32
+fort = 1

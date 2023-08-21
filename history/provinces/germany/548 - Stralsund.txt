@@ -1,0 +1,8 @@
+owner=SWE
+controller=SWE
+add_core=LUZ
+add_core=SWE
+add_core=WSF
+trade_goods = fish
+life_rating = 40
+fort = 1

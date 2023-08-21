@@ -1,0 +1,500 @@
+908 = {
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 180
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 64
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 2873
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 133
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 159
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 178
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 1859
+	}
+
+}
+909 = {
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 219
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 167
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = shiite
+		size= 1923
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 414
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-polish-culture-num1
+		religion = catholic
+		size= 998
+	}
+
+}
+910 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 97
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 121
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 1460
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 299
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 761
+	}
+
+}
+911 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 227
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 284
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 3460
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 165
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 696
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 167
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1854
+	}
+
+}
+922 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 163
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 58
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 2669
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 117
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 142
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1755
+	}
+
+}

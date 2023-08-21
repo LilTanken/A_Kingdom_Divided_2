@@ -1,0 +1,184 @@
+2222 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2820
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3065
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 1580
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1609
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 65
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 93
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 37699
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 386
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 480
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 41
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 9142
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1219
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 3012
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 489
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 256
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 632
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 26617
+	}
+
+}

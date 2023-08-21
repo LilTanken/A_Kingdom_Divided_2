@@ -1,0 +1,195 @@
+2201 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3158
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 9160
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 535
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 225
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 201
+	}
+
+}
+2202 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1174
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3454
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6
+	}
+
+}
+2203 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 421
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 2328
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 120
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 4
+	}
+
+}

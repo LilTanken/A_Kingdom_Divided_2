@@ -1,0 +1,51 @@
+2127 = {
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 1202
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 2
+	}
+
+}

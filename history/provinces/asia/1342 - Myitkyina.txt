@@ -1,0 +1,8 @@
+owner=KWN
+controller=KWN
+add_core=BUR
+add_core=IDO
+add_core=KWN
+add_core=SHA
+trade_goods = grain
+life_rating = 33

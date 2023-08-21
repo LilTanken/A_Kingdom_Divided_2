@@ -1,0 +1,357 @@
+1531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1456
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1040
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 52
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 218
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 23010
+	}
+
+}
+2528 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2974
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2124
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 345
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 159
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 446
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 46940
+	}
+
+}
+2529 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1624
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1160
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 188
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 88
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 244
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 25636
+	}
+
+}
+2530 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3696
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2640
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 429
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 198
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 139
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 554
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 58344
+	}
+
+}
+2531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4206
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3004
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 488
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 225
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 158
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 631
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 66388
+	}
+
+}
+2537 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2016
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1440
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 234
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 72
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 302
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 31860
+	}
+
+}
+2539 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 784
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 560
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 12390
+	}
+
+}

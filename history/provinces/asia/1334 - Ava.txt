@@ -1,0 +1,7 @@
+owner=KWN
+controller=KWN
+add_core=BUR
+add_core=IDO
+add_core=KWN
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,14 @@
+name = "Maharastran Reconquest of Narbada"
+
+1815.11.2 = {
+	add_attacker = MRT
+	add_attacker = BUN
+	add_defender = GDW
+
+	war_goal = {
+		casus_belli = acquire_core_state
+		actor = MRT
+		receiver = GDW
+		state_province_id = 1275
+	}
+}

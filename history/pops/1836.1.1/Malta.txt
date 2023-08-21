@@ -1,0 +1,51 @@
+854 = {
+	soldiers=
+	{
+		culture = berber
+		religion = catholic
+		size= 770
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = catholic
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = catholic
+		size= 358
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = catholic
+		size= 58
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = catholic
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = catholic
+		size= 347
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = catholic
+		size= 24809
+	}
+
+}

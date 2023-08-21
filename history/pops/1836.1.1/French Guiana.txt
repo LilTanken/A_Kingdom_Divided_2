@@ -1,0 +1,144 @@
+2241 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 702
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 110
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = sunni
+		size= 2896
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = sunni
+		size= 230
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = sunni
+		size= 169
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = sunni
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = sunni
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = sunni
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = sunni
+		size= 67
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = sunni
+		size= 5
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = sunni
+		size= 548
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = sunni
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = sunni
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = sunni
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = sunni
+		size= 6
+	}
+
+}

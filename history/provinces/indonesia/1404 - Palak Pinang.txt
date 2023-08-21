@@ -1,0 +1,5 @@
+owner=DJA
+controller=ENG
+add_core=DJA
+trade_goods = timber
+life_rating = 32

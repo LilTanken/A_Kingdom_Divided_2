@@ -1,0 +1,6 @@
+owner=DMK
+controller=DMK
+add_core=DMK
+add_core=JAV
+trade_goods = grain
+life_rating = 35

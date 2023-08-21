@@ -1,0 +1,8 @@
+owner=TRT
+controller=NEP
+add_core=HND
+add_core=NEP
+add_core=TRT
+trade_goods = opium
+life_rating = 32
+fort = 1

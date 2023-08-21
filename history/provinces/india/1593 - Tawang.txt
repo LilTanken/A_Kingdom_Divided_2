@@ -1,0 +1,6 @@
+owner=KWN
+controller=ENG
+add_core=KWN
+trade_goods = cattle
+life_rating = 30
+fort = 1

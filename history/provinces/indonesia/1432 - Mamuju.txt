@@ -1,0 +1,6 @@
+owner=MKS
+controller=MKS
+trade_goods = grain
+life_rating = 31
+naval_base = 1
+fort = 1

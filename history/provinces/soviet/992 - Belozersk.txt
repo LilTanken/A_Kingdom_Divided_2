@@ -1,0 +1,6 @@
+owner=SWE
+controller=RUS
+add_core=FIN
+add_core=SWE
+trade_goods = cattle
+life_rating = 35

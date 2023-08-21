@@ -1,0 +1,64 @@
+vassal=
+{
+	first="BRU"
+	second="LAN"
+	start_date="1791.11.7"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="HAN"
+	second="WBG"
+	start_date="1774.6.25"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="HAN"
+	second="X10"
+	start_date="1782.1.12"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="HAN"
+	second="SAX"
+	start_date="1805.6.4"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="HAN"
+	second="WES"
+	start_date="1805.6.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="NET"
+	second="SAR"
+	start_date="1805.10.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SPA"
+	second="MGD"
+	start_date="1754.6.3"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ANA"
+	second="ARM"
+	start_date="1815.8.10"
+	end_date="1936.1.1"
+}
+

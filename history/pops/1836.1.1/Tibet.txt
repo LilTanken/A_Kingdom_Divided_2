@@ -1,0 +1,1561 @@
+1587 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 608
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 370
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 11
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 7077
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 1268
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 2293
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 332
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 68
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 500
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 12637
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 734
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 447
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 13
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 8552
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 265
+	}
+
+	artisans=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 161
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 3092
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 313
+	}
+
+	artisans=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 542
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 16
+	}
+
+	officers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 3153
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 213
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 323
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 10
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 2202
+	}
+
+}
+1588 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 303
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 184
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 5
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 3531
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 634
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 1145
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 163
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 35
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 249
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 6305
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 366
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 222
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 6
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 4265
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 132
+	}
+
+	artisans=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 1543
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 156
+	}
+
+	artisans=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 271
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 1572
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 106
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 161
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 5
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 1099
+	}
+
+}
+1589 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 91
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 4
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 4277
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 128
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 383
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 18
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 161
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 5713
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 943
+	}
+
+}
+1590 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 411
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 7
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 4790
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 858
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 1553
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 225
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 46
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 337
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 8553
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 496
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 302
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 9
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 5789
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 180
+	}
+
+	artisans=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 109
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 2093
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 212
+	}
+
+	artisans=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 367
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 11
+	}
+
+	officers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 2133
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 144
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 219
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 7
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = hindu
+		size= 1489
+	}
+
+}
+1591 = {
+	slaves=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 227
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1355
+	}
+
+	slaves=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 325
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 143
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 7
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 1788
+	}
+
+	slaves=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 49
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 300
+	}
+
+}
+1592 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 744
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 752
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 8
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 11667
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 848
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 2740
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 128
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 26
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 330
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 11046
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 367
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 1407
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 13
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = theravada
+		size= 4508
+	}
+
+}
+1593 = {
+	soldiers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 1249
+	}
+
+	artisans=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 1942
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 180
+	}
+
+	officers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 351
+	}
+
+	farmers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 13103
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 387
+	}
+
+	artisans=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 374
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 4369
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = theravada
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = protestant
+		size= 202
+	}
+
+	artisans=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = protestant
+		size= 1164
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = protestant
+		size= 108
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = protestant
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = protestant
+		size= 209
+	}
+
+	farmers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = protestant
+		size= 1017
+	}
+
+	soldiers=
+	{
+		culture = kachin
+		religion = animist
+		size= 305
+	}
+
+	artisans=
+	{
+		culture = kachin
+		religion = animist
+		size= 289
+	}
+
+	clergymen=
+	{
+		culture = kachin
+		religion = animist
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = kachin
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = kachin
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = kachin
+		religion = animist
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = kachin
+		religion = animist
+		size= 3441
+	}
+
+	soldiers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 651
+	}
+
+	artisans=
+	{
+		culture = kachin
+		religion = theravada
+		size= 1520
+	}
+
+	clergymen=
+	{
+		culture = kachin
+		religion = theravada
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = kachin
+		religion = theravada
+		size= 18
+	}
+
+	officers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = kachin
+		religion = theravada
+		size= 274
+	}
+
+	farmers=
+	{
+		culture = kachin
+		religion = theravada
+		size= 6163
+	}
+
+}

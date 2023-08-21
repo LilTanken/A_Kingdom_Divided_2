@@ -1,0 +1,24 @@
+guarantee=
+{
+	first="BAV"
+	second="X15"
+	start_date="1815.11.1"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="PER"
+	second="ARA"
+	start_date="1805.12.12"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="X00"
+	second="LUX"
+	start_date="1806.4.29"
+	end_date="1936.1.1"
+}
+

@@ -1,0 +1,949 @@
+#Sphere of Influence
+
+ADU = {
+	value = -12
+	level = 2
+}
+AFG = {
+	value = 50
+	level = 3
+}
+ANA = {
+	value = -42
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 13
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+ATM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = -11
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = -10
+	level = 2
+}
+BEN = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 13
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BUN = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAQ = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = -2
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 6
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+DMK = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 66
+	influence_value = 4
+	level = 2
+}
+ENG = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FEO = {
+	value = 103
+	influence_value = 13
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = -12
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 8
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = -28
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = -11
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUC = {
+	value = -5
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+LUX = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = -84
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MIR = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOS = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = -5
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 15
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PIS = {
+	value = -5
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = -40
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+SAR = {
+	value = 20
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = -12
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = -3
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -12
+	level = 2
+}
+UTS = {
+	value = 50
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WBG = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = -13
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -12
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAT = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Artamon Gagarin"
+	date="1782.11.7"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Pavel Menshikov"
+	date="1798.10.14"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Yulian Dezhnev"
+	date="1799.3.4"
+	type=land
+	personality="resolute"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Prokopiy Senyavin"
+	date="1801.9.10"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Nikifor Repnin"
+	date="1802.6.11"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Vitus Bering"
+	date="1816.2.28"
+	type=sea
+	personality="disciplined"
+	background="generals_aide"
+}
+
+leader = {
+	name="Lavrentiy Yermak"
+	date="1816.3.2"
+	type=land
+	personality="unflinching"
+	background="school_of_defense"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=2814
+	ship = {
+		name="Kulevtcha"
+		type=frigate
+	}
+	ship = {
+		name="Kagul"
+		type=frigate
+	}
+	ship = {
+		name="Kamchatka"
+		type=frigate
+	}
+	ship = {
+		name="Odessa"
+		type=frigate
+	}
+}
+
+army = {
+	name="Lithuanian Company"
+	location=1184
+	regiment = {
+		name="1st Vladimir Infantry"
+		type=infantry
+		home=1013
+	}
+	regiment = {
+		name="2nd Vladimir Infantry"
+		type=infantry
+		home=1013
+	}
+	regiment = {
+		name="3rd Vladimir Infantry"
+		type=infantry
+		home=1013
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2692
+	regiment = {
+		name="1st Grozny Infantry"
+		type=infantry
+		home=1055
+	}
+	regiment = {
+		name="1st Chernigov Infantry"
+		type=infantry
+		home=962
+	}
+}
+
+navy = {
+	name="Red Squadron"
+	location=2765
+	ship = {
+		name="Sviatoslav"
+		type=manowar
+	}
+	ship = {
+		name="Vola"
+		type=manowar
+	}
+	ship = {
+		name="Andrei"
+		type=manowar
+	}
+	ship = {
+		name="Razboinik"
+		type=clipper_transport
+	}
+	ship = {
+		name="Strelok"
+		type=clipper_transport
+	}
+	ship = {
+		name="Dzhigit"
+		type=clipper_transport
+	}
+	ship = {
+		name="Oprichnik"
+		type=clipper_transport
+	}
+	ship = {
+		name="Nayezdnik"
+		type=clipper_transport
+	}
+	ship = {
+		name="Plastun"
+		type=clipper_transport
+	}
+	ship = {
+		name="Fershampenuaz"
+		type=manowar
+	}
+	ship = {
+		name="Gaidamak"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=1182
+	regiment = {
+		name="1st Moscow Infantry"
+		type=infantry
+		home=1008
+	}
+	regiment = {
+		name="1st Borodino Infantry"
+		type=infantry
+		home=1009
+	}
+	regiment = {
+		name="2nd Moscow Infantry"
+		type=infantry
+		home=1008
+	}
+	regiment = {
+		name="2nd Borodino Infantry"
+		type=infantry
+		home=1009
+	}
+	regiment = {
+		name="3rd Moscow Infantry"
+		type=infantry
+		home=1008
+	}
+	regiment = {
+		name="3rd Borodino Infantry"
+		type=infantry
+		home=1009
+	}
+	regiment = {
+		name="4th Borodino Infantry"
+		type=infantry
+		home=1009
+	}
+}
+
+army = {
+	name="Army of Crimea"
+	location=1050
+	regiment = {
+		name="2nd Grozny Infantry"
+		type=infantry
+		home=1055
+	}
+	regiment = {
+		name="1st Olyekminsk Cavalry"
+		type=cavalry
+		home=2644
+	}
+	regiment = {
+		name="1st Tver Cavalry"
+		type=cavalry
+		home=998
+	}
+	regiment = {
+		name="1st Kansk Artillery"
+		type=artillery
+		home=2701
+	}
+	regiment = {
+		name="1st Grozny Artillery"
+		type=artillery
+		home=1055
+	}
+	regiment = {
+		name="1st Tver Artillery"
+		type=artillery
+		home=998
+	}
+	regiment = {
+		name="1st Pyatigorsk Infantry"
+		type=infantry
+		home=1056
+	}
+	regiment = {
+		name="1st Pyatigorsk Cavalry"
+		type=cavalry
+		home=1056
+	}
+	regiment = {
+		name="1st Vologda Cavalry"
+		type=cavalry
+		home=989
+	}
+	regiment = {
+		name="1st Chernigov Cavalry"
+		type=cavalry
+		home=962
+	}
+	regiment = {
+		name="1st Vologda Artillery"
+		type=artillery
+		home=989
+	}
+	regiment = {
+		name="1st Nerchinsk Artillery"
+		type=artillery
+		home=1079
+	}
+	regiment = {
+		name="2nd Grozny Artillery"
+		type=artillery
+		home=1055
+	}
+}
+

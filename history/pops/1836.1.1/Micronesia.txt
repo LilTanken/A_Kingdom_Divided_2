@@ -1,0 +1,610 @@
+610 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 99
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 26
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 490
+	}
+
+}
+1654 = {
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+}
+2517 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 398
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1019
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 63
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+}
+2518 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 509
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1348
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+}
+2519 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 135
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 356
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+}
+2521 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 896
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 55
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+}
+2522 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 337
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 994
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 60
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+}
+2523 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 167
+	}
+
+}
+2525 = {
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 9
+	}
+
+}
+2527 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 765
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2314
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 137
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 28
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 146
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 6
+	}
+
+}
+2579 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 579
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 31
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 6
+	}
+
+}

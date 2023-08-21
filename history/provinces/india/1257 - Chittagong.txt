@@ -1,0 +1,8 @@
+owner=ARK
+controller=ENG
+add_core=ARK
+add_core=BUR
+add_core=IDO
+trade_goods = dye
+life_rating = 32
+naval_base = 2

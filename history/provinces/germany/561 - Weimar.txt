@@ -1,0 +1,9 @@
+owner=SAX
+controller=SAX
+add_core=HAN
+add_core=LUZ
+add_core=SAX
+add_core=WSF
+trade_goods = sulphur
+life_rating = 40
+fort = 1

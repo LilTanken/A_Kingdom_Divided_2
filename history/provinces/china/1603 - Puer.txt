@@ -1,0 +1,5 @@
+owner=CWU
+controller=CWU
+add_core=CWU
+trade_goods = tea
+life_rating = 32

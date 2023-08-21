@@ -1,0 +1,186 @@
+2240 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1010
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 10990
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 215
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 462
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 97
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 398
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = sunni
+		size= 1176
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = sunni
+		size= 272
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = sunni
+		size= 65
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = sunni
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = sunni
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = sunni
+		size= 3
+	}
+
+}

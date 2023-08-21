@@ -1,0 +1,4 @@
+owner=X07
+controller=X07
+trade_goods = tropical_wood
+life_rating = 31

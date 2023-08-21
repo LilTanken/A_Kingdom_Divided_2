@@ -1,0 +1,6 @@
+owner=X07
+controller=X07
+trade_goods = cotton
+life_rating = 35
+terrain = new_world_plains
+naval_base = 2

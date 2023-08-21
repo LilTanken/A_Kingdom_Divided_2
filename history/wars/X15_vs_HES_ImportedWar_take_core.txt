@@ -1,0 +1,15 @@
+name = "West Franconian Reconquest of Nassau"
+
+1816.3.4 = {
+	add_attacker = X15
+	add_attacker = FRA
+	add_attacker = LUX
+	add_defender = HES
+
+	war_goal = {
+		casus_belli = acquire_core_state
+		actor = X15
+		receiver = HES
+		state_province_id = 565
+	}
+}

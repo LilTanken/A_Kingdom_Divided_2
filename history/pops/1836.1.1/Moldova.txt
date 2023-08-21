@@ -1,0 +1,200 @@
+676 = {
+	soldiers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 1644
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 1805
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 54
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 501
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 22766
+	}
+
+	soldiers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 3014
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 8426
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 391
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 251
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 2338
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 34735
+	}
+
+}
+677 = {
+	soldiers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 1582
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 1694
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 52
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 483
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 21521
+	}
+
+	soldiers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 2902
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 7903
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 375
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 241
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 107
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 2253
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 32834
+	}
+
+}

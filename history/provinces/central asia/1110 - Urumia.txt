@@ -1,0 +1,5 @@
+owner=ARM
+controller=ARM
+add_core=SRN
+trade_goods = wool
+life_rating = 35

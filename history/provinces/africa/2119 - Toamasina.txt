@@ -1,0 +1,8 @@
+owner=POR
+controller=POR
+add_core=MAD
+trade_goods = fruit
+life_rating = 10
+terrain = jungle
+colonial=2
+naval_base = 1

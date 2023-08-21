@@ -1,0 +1,7 @@
+owner=PGR
+controller=PGR
+add_core=JAV
+add_core=PGR
+trade_goods = fish
+life_rating = 35
+fort = 1

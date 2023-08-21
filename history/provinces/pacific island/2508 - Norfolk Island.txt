@@ -1,0 +1,6 @@
+owner=ENG
+controller=ENG
+add_core=AOT
+trade_goods = fish
+life_rating = 31
+terrain = small_island

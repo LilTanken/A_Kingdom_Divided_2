@@ -1,0 +1,6 @@
+owner=MRT
+controller=ENG
+add_core=MRT
+add_core=X14
+trade_goods = wool
+life_rating = 32

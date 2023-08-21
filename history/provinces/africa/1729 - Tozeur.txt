@@ -1,0 +1,8 @@
+owner=X07
+controller=X07
+add_core=ADU
+add_core=TLC
+add_core=X07
+trade_goods = wool
+life_rating = 10
+fort = 1

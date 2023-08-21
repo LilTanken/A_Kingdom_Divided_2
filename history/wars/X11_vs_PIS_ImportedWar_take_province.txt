@@ -1,0 +1,14 @@
+name = "Romagnan-Pisan Nationalist War"
+
+1815.8.20 = {
+	add_attacker = X11
+	add_attacker = HUN
+	add_defender = PIS
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = X11
+		receiver = PIS
+		state_province_id = 747
+	}
+}
